@@ -159,6 +159,7 @@ CREATE TABLE `projects` (
   `client` varchar(50) CHARACTER SET utf8 COLLATE utf8_bin NOT NULL,
   `accountmgr` varchar(50) CHARACTER SET utf8 COLLATE utf8_bin NOT NULL,
   `projectmgr` varchar(50) CHARACTER SET utf8 COLLATE utf8_bin NOT NULL,
+  `assessment` varchar(50) CHARACTER SET utf8 COLLATE utf8_bin NOT NULL,
   `employee` varchar(50) CHARACTER SET utf8 COLLATE utf8_bin NOT NULL,
   `type` varchar(50) CHARACTER SET utf8 COLLATE utf8_bin NOT NULL,
   `objective` varchar(100) CHARACTER SET utf8 COLLATE utf8_bin NOT NULL,

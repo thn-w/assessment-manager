@@ -1,13 +1,13 @@
 ## Assessment Manager Database
 
-### Setup (run once to setup the database)
+### Setup (run ONLY once to setup the database)
 ```
 ./amdb.sh setup
 ```
 
 ### Clear the database
 ```
-./amdb.sh setup
+./amdb.sh clear
 ```
 
 ### Connect to the database locally
